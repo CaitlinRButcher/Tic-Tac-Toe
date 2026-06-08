@@ -23,4 +23,4 @@ jobs:
           python-version: "3.12"
 
       - name: Submit application
-        run: python Tic-Tac-Toe/submit_b12.py
+        run: python submit_b12.py
